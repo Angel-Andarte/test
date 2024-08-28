@@ -11,11 +11,8 @@
 
 1. **Clonar el Repositorio**
 
-   ```bash
   https://github.com/Angel-Andarte/test.git
    
-   cd test
-
 2. **Instalar Dependencias**
 
     composer install
@@ -45,4 +42,4 @@
 
     /fetch-users
 
-    Contraseña poe defecto password123
+    Contraseña por defecto password123
